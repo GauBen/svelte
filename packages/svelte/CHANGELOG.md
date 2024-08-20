@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.229
+
+### Patch Changes
+
+- feat: error on invalid component name ([#12821](https://github.com/sveltejs/svelte/pull/12821))
+
 ## 5.0.0-next.228
 
 ### Patch Changes
